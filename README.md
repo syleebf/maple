@@ -122,23 +122,6 @@ docker-compose up --build
 
 ---
 
-## 예시 시나리오
-1. operator가 회원가입을 한다 
-| 항목      | 설명                               |
-|-----------|------------------------------------|
-| Method    | POST   | 
-| URL       | http://localhost:3000/users/signup |
-| 설명      |     |
-| 요청 헤더 | POST   | 
-| 요청 본문 | GET    |
-| 성공 응답 | POST   | 
-| 실패 응답 | GET    |
-
-
-
-
-
-
 
 
 
